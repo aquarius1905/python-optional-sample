@@ -1,4 +1,3 @@
-# sample_ng.py
 """
 型チェックがNGになる例
 コメントアウトを外すとmypyでエラーが出るパターンを集めたファイルです。
@@ -8,6 +7,7 @@
 2. mypy sample_ng.py を実行
 3. エラーメッセージを確認
 """
+
 from typing import Optional, Union
 
 
